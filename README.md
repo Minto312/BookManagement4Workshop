@@ -1,3 +1,3 @@
 # BookManagement4Workshop
 
-This repository is for ___.
+This repository is for Minto312.
