@@ -24,7 +24,7 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
           <li className="tracking-[-.01em]">
-            <a href="https://www.google.com">Googleへのリンク</a>
+            <a href="https://www.google.com">Googleへのリンクだよー</a>
           </li>
         </ol>
 
